@@ -1,6 +1,6 @@
 # docker-rust-echo-server
 
-A simple lightweight HTTP echo server
+A simple lightweight **(3.65MB)** HTTP echo server
 
 | env     | default          |
 | ------- | ---------------- |

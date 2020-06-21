@@ -1,8 +1,8 @@
 # docker-rust-echo-server
 
-View on Dockerhub: https://hub.docker.com/repository/docker/fraserdarwent/echo
+View on Dockerhub: https://hub.docker.com/r/fraserdarwent/echo
 
-A simple lightweight HTTP echo server
+A simple lightweight **(3.65MB)** HTTP echo server
 
 | env     | default          |
 | ------- | ---------------- |
